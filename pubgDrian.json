@@ -1,5 +1,6 @@
 [
 {
+"a":{
 "teks": "*Uc Pubg Regio Indo*\n"
 },
 {
@@ -40,8 +41,10 @@
 },
 {
 "teks": "93750 UC : 13.000.000"
+}
 },
 {
+"b": {
 "teks1": "*Uc Pubg Regio Indo Fast*\n"
 },
 {
@@ -82,5 +85,6 @@
 },
 {
 "teks1": "19.800 UC : 3.450.000"
+}
 }
 ]
