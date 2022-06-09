@@ -1,14 +1,18 @@
 [
  {
    "index": 0,
+   "judul": "*[IKLAN OWNER]*",
    "text": "Taukah kalian pasang iklan di ballbot murah cuy, iklan bisa muncul di setiap grup yang sedang ramai orang",
    "disp": "chat owner",
-   "link": "https://wa.me/6281949742417"
+   "link": "https://wa.me/6281949742417",
+   "gambar": "https://telegra.ph/file/b96a79d15171904130845.jpg"
  },
  {
    "index": 1,
-   "text": "*[ELAINA OPREC]*\nElaina Sedang Open Recruitment\nCome Join Now!!!!",
+   "judul": "*[ELAINA OPREC]*",
+   "text": "Elaina Sedang Open Recruitment\nCome Join Now!!!!",
    "disp": "Link OPREC",
-   "link": "https://www.instagram.com/p/CearDw4vaA4/?igshid=YmMyMTA2M2Y"
+   "link": "https://www.instagram.com/p/CearDw4vaA4/?igshid=YmMyMTA2M2Y",
+   "gambar": "https://telegra.ph/file/c19d174f6e687521ded60.jpg"
  }
 ]
