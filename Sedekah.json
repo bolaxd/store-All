@@ -1,13 +1,18 @@
 [
 {
+"nama": "drian",
+"jmlh": "70k",
+"pesan": ""
+},
+{
 "nama": "Neon",
 "jmlh": "15k",
 "pesan": ""
 },
 {
-"nama": "drian",
-"jmlh": "70k",
-"pesan": ""
+"nama": "Hamba Allah",
+"jmlh": "15k",
+"Pesan": "Hanya Orang Biasa"
 },
 {
 "nama": "hamba_allah",
@@ -28,10 +33,5 @@
 "nama": "justinalamz",
 "jmlh": "5k",
 "pesan": "untuk bot nya"
-},
-{
-"nama": "Hamba Allah",
-"jmlh": "5k",
-"Pesan": "Hanya Orang Biasa"
 }
 ]
